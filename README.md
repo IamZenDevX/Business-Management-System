@@ -1,1 +1,1 @@
-# Hospital-Management-System
+Business-Management-System
