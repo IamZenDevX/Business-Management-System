@@ -1,9 +1,9 @@
 # Business-Management-System
-# **Introduction:**
+<h2 align="left">Introduction:</h2>
 
 A Business Management System (BMS) is a full system meant to streamline basic business activities by automating them. It ensures that consumer information, preferences, and interactions are documented for better service delivery, therefore enabling efficient management of them. Under tracking availability, price, and classification the system organizes product inventories. It allows role-based access as well as safe processing of administrative and personnel data, therefore enabling user management. The BMS also handles resolutions, schedules, and service requests, thereby regulating maintenance operations. Perfect entry management provides correct recording and monitoring of data, processes, and transactions, therefore supporting enhanced corporate performance and decision-making.
 
-## Key Features:
+<h2 align="left"> Key Features:</h2>
 
 - **Customer Management**: Track consumer tastes, knowledge, and interactions to improve the quality of services and strengthen strong relationships.
 - **Product Management**: From all angles, good management of items catalogues, inventory levels, pricing, and updates guarantees perfect operations..
@@ -11,15 +11,15 @@ A Business Management System (BMS) is a full system meant to streamline basic bu
 - **Service Management**: Using service requests, scheduling, and problem corrective action will help one to be more operational efficient and satisfy customers.
 - **Data Entry & Tracking**: data especially to improve analytics and decision-making.
 
-# **Tools Used:**
+<h2 align="left">Tools Used:</h2>
 
 ![Zendevx Technology](https://github.com/user-attachments/assets/36c979fe-929e-44a4-8958-9c15dc466e35)
 
-## Testing Tools Used:
+<h2 align="left">Testing Tools Used:</h2>
 
 ![PostMan Github](https://github.com/user-attachments/assets/3381c639-715f-40b9-85d3-08384553ee12)
 
-### **Library:**
+<h2 align="left">Library:</h2>
 
 - bcryptjs
 - connect-mongo
@@ -38,7 +38,7 @@ A Business Management System (BMS) is a full system meant to streamline basic bu
 
 The platform will require a relational database to manage Customer,Entry,Product,User and Servicing . Below is a proposed database structure with the key tables.
 
-### **Tables**:
+<h3 align="left">Tables:</h3>
 
 ---
 
@@ -98,9 +98,9 @@ The platform will require a relational database to manage Customer,Entry,Product
 | deliveryDate | Date |
 | createdAt | Date |
 
-# **Modules and Components**:
+<h2 align="left">Modules and Components:</h2>
 
-### **Modules:**
+<h3 align="left">Modules:</h3>
 
 1. **Customer Management Module:**
     - Customer database and profiles
@@ -132,11 +132,11 @@ The platform will require a relational database to manage Customer,Entry,Product
     - Integration with CRM, ERP, and other systems
     
 
-### **Components:**
+<h3 align="left">Components:</h3>
 
-- **Database Layer:**Centralized storage for customers, products, users, and service data.
-- **API Layer:**Facilitates communication between backend, and integrations.
-- **Authentication Component:**Secure login and user access management.
+- Database Layer:Centralized storage for customers, products, users, and service data.
+- API Layer:Facilitates communication between backend, and integrations.
+- Authentication Component:Secure login and user access management.
 
 <h2 align="left">Development with ZenDevx:</h2>
 
